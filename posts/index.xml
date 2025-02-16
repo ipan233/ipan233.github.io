@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - 🥝我的三三两两</title>
+        <link>https://ipan233.github.io/posts/</link>
+        <description>All Posts | 🥝我的三三两两</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>g@dubids.cf (ipan🥝)</managingEditor>
+            <webMaster>g@dubids.cf (ipan🥝)</webMaster><copyright>本博客所有文章除特别声明外，均采用 CC BY-NC-SA 4.0 许可协议。转载请注明</copyright><atom:link href="https://ipan233.github.io/posts/" rel="self" type="application/rss+xml" /></channel>
+</rss>
